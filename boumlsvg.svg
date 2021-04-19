@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Bouml (http://bouml.free.fr/) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="8020" height="3000" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradffffff" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradffffe0" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,255,224);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradffffc0" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,255,192);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradffeb60" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,235,96);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradffd700" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,215,0);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="grade0ffff" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(224,255,255);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradc0ffff" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(192,255,255);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="grad90ccff" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(144,204,255);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="grad60aaff" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(96,170,255);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="grad00aaff" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(0,170,255);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="graddfffdf" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(223,255,223);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradc0ffc0" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(192,255,192);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="grad90e990" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(144,233,144);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="grad60d460" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(96,212,96);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="grad00aa00" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(0,170,0);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradffc0c0" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,192,192);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradc00000" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(192,0,0);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradff0000" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradffdca8" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,220,168);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradffa858" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,168,88);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradff8000" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,128,0);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradc05800" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(192,88,0);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradffc0ff" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,192,255);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradff00ff" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,0,255);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradc000c0" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(192,0,192);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="grad800080" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(128,0,128);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradf6f6f6" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(246,246,246);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradededed" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(237,237,237);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="graddcdcdc" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(220,220,220);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="gradcbcbcb" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(203,203,203);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <defs>
+    <linearGradient id="grad000000" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(0,0,0);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="567" y="221" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="385" y="265" width="184" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="382" y="218" width="185" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="475" y="227">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="475" y="241">GetName_stringTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="382" y1="246" x2="567" y2="246" />
+	<line stroke="black" stroke-opacity="1" x1="382" y1="251" x2="567" y2="251" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="384" y="260">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="396" y="260">getName_string_weatherpi() : string</text>
+</g>
+<g>
+	<ellipse fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" cx="777" cy="535" rx="7" ry="7" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="777" y="551">Database_1Interface</text>
+	<line stroke="black" stroke-opacity="1" x1="724" y1="556" x2="830" y2="556" />
+	<line stroke="black" stroke-opacity="1" x1="724" y1="561" x2="830" y2="561" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="917" y="221" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="715" y="265" width="204" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="712" y="218" width="205" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="815" y="227">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="815" y="241">GetUsername_stringTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="712" y1="246" x2="917" y2="246" />
+	<line stroke="black" stroke-opacity="1" x1="712" y1="251" x2="917" y2="251" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="714" y="260">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="726" y="260">getUsername_string_weatherpi() : string</text>
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="550" y="55" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="464" y="99" width="88" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="461" y="52" width="89" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="506" y="61">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="506" y="75">Host_privateTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="461" y1="80" x2="550" y2="80" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="463" y="89">-</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="475" y="89">host : </text>
+	<line stroke="black" stroke-opacity="1" x1="461" y1="94" x2="550" y2="94" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="766" y="53" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="662" y="97" width="106" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="659" y="50" width="107" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="713" y="59">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="713" y="73">Dbname_privateTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="659" y1="78" x2="766" y2="78" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="661" y="87">-</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="673" y="87">dbname : </text>
+	<line stroke="black" stroke-opacity="1" x1="659" y1="92" x2="766" y2="92" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="974" y="58" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="862" y="102" width="114" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="859" y="55" width="115" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="917" y="64">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="917" y="78">Username_privateTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="859" y1="83" x2="974" y2="83" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="861" y="92">-</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="873" y="92">username : </text>
+	<line stroke="black" stroke-opacity="1" x1="859" y1="97" x2="974" y2="97" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="454" y="44" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="362" y="88" width="94" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="359" y="41" width="95" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="407" y="50">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="407" y="64">Name_privateTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="359" y1="69" x2="454" y2="69" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="361" y="78">-</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="373" y="78">name : </text>
+	<line stroke="black" stroke-opacity="1" x1="359" y1="83" x2="454" y2="83" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="490" y="115" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="344" y="159" width="148" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="341" y="112" width="149" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="416" y="121">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="416" y="135">Set_name4Trait</text>
+	<line stroke="black" stroke-opacity="1" x1="341" y1="140" x2="490" y2="140" />
+	<line stroke="black" stroke-opacity="1" x1="341" y1="145" x2="490" y2="145" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="343" y="154">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="355" y="154">set_name4(in name4 : string)</text>
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="246" y="468" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="30" y="512" width="218" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="27" y="465" width="219" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="137" y="474">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="137" y="488">differenceBetweentTmeToStart_privateTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="27" y1="493" x2="246" y2="493" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="29" y="502">-</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="41" y="502">timeBetweenCreated : </text>
+	<line stroke="black" stroke-opacity="1" x1="27" y1="507" x2="246" y2="507" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="424" y="541" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="34" y="585" width="392" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="31" y="538" width="393" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="228" y="547">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="228" y="561">Set_differenceBetweentTmeToStart2Trait</text>
+	<line stroke="black" stroke-opacity="1" x1="31" y1="566" x2="424" y2="566" />
+	<line stroke="black" stroke-opacity="1" x1="31" y1="571" x2="424" y2="571" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="33" y="580">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="45" y="580">set_differenceBetweentTmeToStart2(in differenceBetweentTmeToStart2 : float)</text>
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="777" y1="566" x2="771" y2="572" />
+	<line stroke="black" stroke-opacity="1" x1="777" y1="566" x2="783" y2="571" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="859" y1="2071" x2="777" y2="566" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="859" y1="2071" x2="777" y2="571" />
+	<line stroke="#000000" stroke-opacity="1" x1="777" y1="566" x2="771" y2="572" />
+	<line stroke="#000000" stroke-opacity="1" x1="777" y1="566" x2="783" y2="571" />
+	<line stroke="#000000" stroke-opacity="1" x1="771" y1="572" x2="783" y2="571" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="786" y1="566" x2="841" y2="677" />
+	<line stroke="#000000" stroke-opacity="1" x1="844" y1="683" x2="846" y2="674" />
+	<line stroke="#000000" stroke-opacity="1" x1="844" y1="683" x2="835" y2="680" />
+	<line stroke="#000000" stroke-opacity="1" x1="846" y1="674" x2="835" y2="680" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="816" y1="268" x2="810" y2="274" />
+	<line stroke="black" stroke-opacity="1" x1="816" y1="268" x2="822" y2="273" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="860" y1="2071" x2="816" y2="268" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="860" y1="2071" x2="816" y2="273" />
+	<line stroke="#000000" stroke-opacity="1" x1="816" y1="268" x2="810" y2="274" />
+	<line stroke="#000000" stroke-opacity="1" x1="816" y1="268" x2="822" y2="273" />
+	<line stroke="#000000" stroke-opacity="1" x1="810" y1="274" x2="822" y2="273" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="510" y1="102" x2="505" y2="108" />
+	<line stroke="black" stroke-opacity="1" x1="510" y1="102" x2="516" y2="106" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="858" y1="2071" x2="510" y2="102" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="858" y1="2071" x2="514" y2="107" />
+	<line stroke="#000000" stroke-opacity="1" x1="513" y1="102" x2="508" y2="108" />
+	<line stroke="#000000" stroke-opacity="1" x1="513" y1="102" x2="519" y2="106" />
+	<line stroke="#000000" stroke-opacity="1" x1="508" y1="108" x2="519" y2="106" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="715" y1="100" x2="709" y2="106" />
+	<line stroke="black" stroke-opacity="1" x1="715" y1="100" x2="721" y2="105" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="859" y1="2071" x2="715" y2="100" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="859" y1="2071" x2="715" y2="105" />
+	<line stroke="#000000" stroke-opacity="1" x1="715" y1="100" x2="709" y2="106" />
+	<line stroke="#000000" stroke-opacity="1" x1="715" y1="100" x2="721" y2="105" />
+	<line stroke="#000000" stroke-opacity="1" x1="709" y1="106" x2="721" y2="105" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="917" y1="105" x2="910" y2="110" />
+	<line stroke="black" stroke-opacity="1" x1="917" y1="105" x2="922" y2="111" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="861" y1="2071" x2="917" y2="105" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="861" y1="2071" x2="916" y2="110" />
+	<line stroke="#000000" stroke-opacity="1" x1="917" y1="105" x2="910" y2="110" />
+	<line stroke="#000000" stroke-opacity="1" x1="917" y1="105" x2="922" y2="111" />
+	<line stroke="#000000" stroke-opacity="1" x1="910" y1="110" x2="922" y2="111" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="255" y="167" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="115" y="211" width="142" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="112" y="164" width="143" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="184" y="173">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="184" y="187">NameLanguage_privateTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="112" y1="192" x2="255" y2="192" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="114" y="201">-</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="126" y="201">nameLanguage : </text>
+	<line stroke="black" stroke-opacity="1" x1="112" y1="206" x2="255" y2="206" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="1022" y="303" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="714" y="347" width="310" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="711" y="300" width="311" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="867" y="309">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="867" y="323">SetUsername_undefined_stringTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="711" y1="328" x2="1022" y2="328" />
+	<line stroke="black" stroke-opacity="1" x1="711" y1="333" x2="1022" y2="333" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="713" y="342">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="725" y="342">setUsername_undefined_string_weatherpi(in username : string)</text>
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="317" y="48" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="215" y="92" width="104" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="212" y="45" width="105" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="265" y="54">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="265" y="68">NameId_privateTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="212" y1="73" x2="317" y2="73" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="214" y="82">-</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="226" y="82">nameId : </text>
+	<line stroke="black" stroke-opacity="1" x1="212" y1="87" x2="317" y2="87" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="719" y="239" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="491" y="283" width="230" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="488" y="236" width="231" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="604" y="245">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="604" y="259">Set_functionName4Trait</text>
+	<line stroke="black" stroke-opacity="1" x1="488" y1="264" x2="719" y2="264" />
+	<line stroke="black" stroke-opacity="1" x1="488" y1="269" x2="719" y2="269" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="490" y="278">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="502" y="278">set_functionName4(in functionName4 : string)</text>
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="867" y1="350" x2="860" y2="355" />
+	<line stroke="black" stroke-opacity="1" x1="867" y1="350" x2="872" y2="356" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="861" y1="2071" x2="867" y2="350" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="1092" y1="1683" x2="871" y2="355" />
+	<line stroke="#000000" stroke-opacity="1" x1="871" y1="350" x2="866" y2="356" />
+	<line stroke="#000000" stroke-opacity="1" x1="871" y1="350" x2="877" y2="354" />
+	<line stroke="#000000" stroke-opacity="1" x1="866" y1="356" x2="877" y2="354" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="830" y1="543" x2="1052" y2="532" />
+	<line stroke="#000000" stroke-opacity="1" x1="1058" y1="532" x2="1051" y2="526" />
+	<line stroke="#000000" stroke-opacity="1" x1="1058" y1="532" x2="1052" y2="538" />
+	<line stroke="#000000" stroke-opacity="1" x1="1051" y1="526" x2="1052" y2="538" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="278" y1="95" x2="275" y2="103" />
+	<line stroke="black" stroke-opacity="1" x1="278" y1="95" x2="286" y2="97" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="1301" y1="2161" x2="278" y2="95" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="1301" y1="2161" x2="280" y2="100" />
+	<line stroke="#000000" stroke-opacity="1" x1="278" y1="95" x2="275" y2="103" />
+	<line stroke="#000000" stroke-opacity="1" x1="278" y1="95" x2="286" y2="97" />
+	<line stroke="#000000" stroke-opacity="1" x1="275" y1="103" x2="286" y2="97" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="625" y1="286" x2="624" y2="294" />
+	<line stroke="black" stroke-opacity="1" x1="625" y1="286" x2="633" y2="286" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="2207" y1="2218" x2="625" y2="286" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="2207" y1="2218" x2="628" y2="290" />
+	<line stroke="#000000" stroke-opacity="1" x1="625" y1="286" x2="624" y2="294" />
+	<line stroke="#000000" stroke-opacity="1" x1="625" y1="286" x2="633" y2="286" />
+	<line stroke="#000000" stroke-opacity="1" x1="624" y1="294" x2="633" y2="286" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="665" y="304" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="397" y="348" width="270" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="394" y="301" width="271" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="530" y="310">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="530" y="324">SetName_undefined_stringTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="394" y1="329" x2="665" y2="329" />
+	<line stroke="black" stroke-opacity="1" x1="394" y1="334" x2="665" y2="334" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="396" y="343">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="408" y="343">setName_undefined_string_weatherpi(in name : string)</text>
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="174" y="79" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="14" y="123" width="162" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="11" y="76" width="163" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="93" y="85">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="93" y="99">LanguageLanguage_privateTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="11" y1="104" x2="174" y2="104" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="13" y="113">-</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="25" y="113">languageLanguage : </text>
+	<line stroke="black" stroke-opacity="1" x1="11" y1="118" x2="174" y2="118" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="233" y="204" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="-37" y="248" width="272" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="-40" y="201" width="273" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="97" y="210">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="97" y="224">Set_languageLanguage4Trait</text>
+	<line stroke="black" stroke-opacity="1" x1="-40" y1="229" x2="233" y2="229" />
+	<line stroke="black" stroke-opacity="1" x1="-40" y1="234" x2="233" y2="234" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="-38" y="243">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="-26" y="243">set_languageLanguage4(in languageLanguage4 : string)</text>
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="336" y="325" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="28" y="369" width="310" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="25" y="322" width="311" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="181" y="331">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="181" y="345">Set_name0000001Trait</text>
+	<line stroke="black" stroke-opacity="1" x1="25" y1="350" x2="336" y2="350" />
+	<line stroke="black" stroke-opacity="1" x1="25" y1="355" x2="336" y2="355" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="27" y="364">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="39" y="364">set_name0000001(in name0000001 : Expression0001Interface)</text>
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="400" y="165" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="268" y="209" width="134" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="265" y="162" width="135" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="333" y="171">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="333" y="185">functionName_privateTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="265" y1="190" x2="400" y2="190" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="267" y="199">-</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="279" y="199">functionName : </text>
+	<line stroke="black" stroke-opacity="1" x1="265" y1="204" x2="400" y2="204" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="357" y1="212" x2="356" y2="220" />
+	<line stroke="black" stroke-opacity="1" x1="357" y1="212" x2="365" y2="212" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="2203" y1="2218" x2="357" y2="212" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="2203" y1="2218" x2="361" y2="216" />
+	<line stroke="#000000" stroke-opacity="1" x1="357" y1="212" x2="356" y2="220" />
+	<line stroke="#000000" stroke-opacity="1" x1="357" y1="212" x2="365" y2="212" />
+	<line stroke="#000000" stroke-opacity="1" x1="356" y1="220" x2="365" y2="212" />
+</g>
+<g>
+	<ellipse fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" cx="943" cy="524" rx="7" ry="7" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="943" y="540">GetConnectionOfSQLitePDOInterface</text>
+	<line stroke="black" stroke-opacity="1" x1="850" y1="545" x2="1036" y2="545" />
+	<line stroke="black" stroke-opacity="1" x1="850" y1="550" x2="1036" y2="550" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="3398" y1="574" x2="408" y2="210" />
+	<line stroke="#000000" stroke-opacity="1" x1="403" y1="210" x2="408" y2="216" />
+	<line stroke="#000000" stroke-opacity="1" x1="403" y1="210" x2="409" y2="204" />
+	<line stroke="#000000" stroke-opacity="1" x1="408" y1="216" x2="409" y2="204" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="722" y1="272" x2="727" y2="278" />
+	<line stroke="black" stroke-opacity="1" x1="722" y1="272" x2="728" y2="266" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="3398" y1="577" x2="722" y2="272" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="3398" y1="577" x2="727" y2="272" />
+	<line stroke="#000000" stroke-opacity="1" x1="722" y1="272" x2="727" y2="278" />
+	<line stroke="#000000" stroke-opacity="1" x1="722" y1="272" x2="728" y2="266" />
+	<line stroke="#000000" stroke-opacity="1" x1="727" y1="278" x2="728" y2="266" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="403" y1="185" x2="408" y2="191" />
+	<line stroke="black" stroke-opacity="1" x1="403" y1="185" x2="409" y2="179" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="3398" y1="574" x2="403" y2="185" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="249" y1="493" x2="254" y2="499" />
+	<line stroke="black" stroke-opacity="1" x1="249" y1="493" x2="255" y2="487" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="3398" y1="595" x2="249" y2="493" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="3398" y1="595" x2="254" y2="493" />
+	<line stroke="#000000" stroke-opacity="1" x1="249" y1="493" x2="254" y2="499" />
+	<line stroke="#000000" stroke-opacity="1" x1="249" y1="493" x2="255" y2="487" />
+	<line stroke="#000000" stroke-opacity="1" x1="254" y1="499" x2="255" y2="487" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="427" y1="565" x2="432" y2="571" />
+	<line stroke="black" stroke-opacity="1" x1="427" y1="565" x2="433" y2="559" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="3398" y1="600" x2="427" y2="565" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="3398" y1="600" x2="432" y2="565" />
+	<line stroke="#000000" stroke-opacity="1" x1="427" y1="565" x2="432" y2="571" />
+	<line stroke="#000000" stroke-opacity="1" x1="427" y1="565" x2="433" y2="559" />
+	<line stroke="#000000" stroke-opacity="1" x1="432" y1="571" x2="433" y2="559" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="904" y1="555" x2="663" y2="681" />
+	<line stroke="#000000" stroke-opacity="1" x1="658" y1="684" x2="666" y2="686" />
+	<line stroke="#000000" stroke-opacity="1" x1="658" y1="684" x2="660" y2="675" />
+	<line stroke="#000000" stroke-opacity="1" x1="666" y1="686" x2="660" y2="675" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="363" y="239" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="127" y="283" width="238" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="124" y="236" width="239" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="244" y="245">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="244" y="259">Set_nameLanguage4Trait</text>
+	<line stroke="black" stroke-opacity="1" x1="124" y1="264" x2="363" y2="264" />
+	<line stroke="black" stroke-opacity="1" x1="124" y1="269" x2="363" y2="269" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="126" y="278">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="138" y="278">set_nameLanguage4(in nameLanguage4 : string)</text>
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="676" y="75" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="526" y="119" width="152" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="523" y="72" width="153" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="600" y="81">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="600" y="95">Set_result4Trait</text>
+	<line stroke="black" stroke-opacity="1" x1="523" y1="100" x2="676" y2="100" />
+	<line stroke="black" stroke-opacity="1" x1="523" y1="105" x2="676" y2="105" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="525" y="114">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="537" y="114">Set_result4(in result4 : string)</text>
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="311" y="379" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="81" y="423" width="232" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="78" y="376" width="233" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="195" y="385">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="195" y="399">Set_name00004Trait</text>
+	<line stroke="black" stroke-opacity="1" x1="78" y1="404" x2="311" y2="404" />
+	<line stroke="black" stroke-opacity="1" x1="78" y1="409" x2="311" y2="409" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="80" y="418">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="92" y="418">set_name00004(in name00004 : Expression04)</text>
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="679" y1="109" x2="683" y2="115" />
+	<line stroke="black" stroke-opacity="1" x1="679" y1="109" x2="685" y2="104" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="3398" y1="566" x2="679" y2="109" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="3398" y1="566" x2="684" y2="109" />
+	<line stroke="#000000" stroke-opacity="1" x1="679" y1="109" x2="683" y2="115" />
+	<line stroke="#000000" stroke-opacity="1" x1="679" y1="109" x2="685" y2="104" />
+	<line stroke="#000000" stroke-opacity="1" x1="683" y1="115" x2="685" y2="104" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="123" y1="126" x2="123" y2="134" />
+	<line stroke="black" stroke-opacity="1" x1="123" y1="126" x2="131" y2="125" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="2286" y1="1975" x2="123" y2="126" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="2286" y1="1975" x2="127" y2="129" />
+	<line stroke="#000000" stroke-opacity="1" x1="123" y1="126" x2="123" y2="134" />
+	<line stroke="#000000" stroke-opacity="1" x1="123" y1="126" x2="131" y2="125" />
+	<line stroke="#000000" stroke-opacity="1" x1="123" y1="134" x2="131" y2="125" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="129" y1="251" x2="129" y2="259" />
+	<line stroke="black" stroke-opacity="1" x1="129" y1="251" x2="137" y2="250" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="2284" y1="1975" x2="129" y2="251" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="2284" y1="1975" x2="133" y2="254" />
+	<line stroke="#000000" stroke-opacity="1" x1="129" y1="251" x2="129" y2="259" />
+	<line stroke="#000000" stroke-opacity="1" x1="129" y1="251" x2="137" y2="250" />
+	<line stroke="#000000" stroke-opacity="1" x1="129" y1="259" x2="137" y2="250" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="333" y="107" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="183" y="151" width="152" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="180" y="104" width="153" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="257" y="113">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="257" y="127">Set_nameId2Trait</text>
+	<line stroke="black" stroke-opacity="1" x1="180" y1="132" x2="333" y2="132" />
+	<line stroke="black" stroke-opacity="1" x1="180" y1="137" x2="333" y2="137" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="182" y="146">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="194" y="146">set_nameId2(in nameId2 : int)</text>
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="271" y1="154" x2="268" y2="162" />
+	<line stroke="black" stroke-opacity="1" x1="271" y1="154" x2="279" y2="156" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="1300" y1="2161" x2="271" y2="154" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="1300" y1="2161" x2="273" y2="159" />
+	<line stroke="#000000" stroke-opacity="1" x1="271" y1="154" x2="268" y2="162" />
+	<line stroke="#000000" stroke-opacity="1" x1="271" y1="154" x2="279" y2="156" />
+	<line stroke="#000000" stroke-opacity="1" x1="268" y1="162" x2="279" y2="156" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="419" y1="91" x2="415" y2="98" />
+	<line stroke="black" stroke-opacity="1" x1="419" y1="91" x2="426" y2="94" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="1457" y1="2527" x2="419" y2="91" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="1457" y1="2527" x2="421" y2="96" />
+	<line stroke="#000000" stroke-opacity="1" x1="419" y1="91" x2="415" y2="98" />
+	<line stroke="#000000" stroke-opacity="1" x1="419" y1="91" x2="426" y2="94" />
+	<line stroke="#000000" stroke-opacity="1" x1="415" y1="98" x2="426" y2="94" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="428" y1="162" x2="424" y2="169" />
+	<line stroke="black" stroke-opacity="1" x1="428" y1="162" x2="435" y2="165" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="1457" y1="2527" x2="428" y2="162" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="1457" y1="2527" x2="430" y2="167" />
+	<line stroke="#000000" stroke-opacity="1" x1="428" y1="162" x2="424" y2="169" />
+	<line stroke="#000000" stroke-opacity="1" x1="428" y1="162" x2="435" y2="165" />
+	<line stroke="#000000" stroke-opacity="1" x1="424" y1="169" x2="435" y2="165" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="387" y="220" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="261" y="264" width="128" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="258" y="217" width="129" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="323" y="226">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="323" y="240">functionName_publicTrait</text>
+	<line stroke="black" stroke-opacity="1" x1="258" y1="245" x2="387" y2="245" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="260" y="254">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="272" y="254">functionName : </text>
+	<line stroke="black" stroke-opacity="1" x1="258" y1="259" x2="387" y2="259" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="350" y1="267" x2="350" y2="275" />
+	<line stroke="black" stroke-opacity="1" x1="350" y1="267" x2="358" y2="266" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="2528" y1="2295" x2="350" y2="267" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="2528" y1="2295" x2="354" y2="271" />
+	<line stroke="#000000" stroke-opacity="1" x1="350" y1="267" x2="350" y2="275" />
+	<line stroke="#000000" stroke-opacity="1" x1="350" y1="267" x2="358" y2="266" />
+	<line stroke="#000000" stroke-opacity="1" x1="350" y1="275" x2="358" y2="266" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="605" y="184" width="2" height="46" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="457" y="228" width="150" height="2" />
+	<rect fill="url(#gradffffc0)" stroke="black" stroke-width="1" stroke-opacity="1" x="454" y="181" width="151" height="47" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" text-anchor="middle" x="530" y="190">&lt;&lt;trait&gt;&gt;</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="530" y="204">Get_functionName4Trait</text>
+	<line stroke="black" stroke-opacity="1" x1="454" y1="209" x2="605" y2="209" />
+	<line stroke="black" stroke-opacity="1" x1="454" y1="214" x2="605" y2="214" />
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" font-weight="bold" x="456" y="223">+</text>
+	<text font-family="Ubuntu" font-size="8" fill="#000000" xml:space="preserve" x="468" y="223">get_functionName4() : string</text>
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="608" y1="215" x2="613" y2="221" />
+	<line stroke="black" stroke-opacity="1" x1="608" y1="215" x2="614" y2="209" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="3398" y1="574" x2="608" y2="215" />
+</g>
+<g>
+	<line stroke="#000000" stroke-opacity="1" x1="3398" y1="574" x2="613" y2="215" />
+	<line stroke="#000000" stroke-opacity="1" x1="608" y1="215" x2="613" y2="221" />
+	<line stroke="#000000" stroke-opacity="1" x1="608" y1="215" x2="614" y2="209" />
+	<line stroke="#000000" stroke-opacity="1" x1="613" y1="221" x2="614" y2="209" />
+</g>
+</svg>
